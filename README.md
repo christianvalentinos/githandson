@@ -48,6 +48,19 @@ Live Demo: [https://christianvalentinos.github.io/githandson/](#)
 
 ---
 
+---
+
+## What I Learned
+
+| Nama Kelompok | Role | Kontribusi |
+|---|---|---|
+| Christian Valentino Setiawan | Membuat repository di github |
+| Leonel Shena Andreas | Kolaborasi coding |
+| Jazson Riddick | Kerjasama dalam tim |
+
+
+---
+
 ## How to Run
 
 1. Clone repository ini:
