@@ -14,7 +14,7 @@ Deskripsi singkat 1-2 kalimat tentang project ini (contoh: "DevCard adalah halam
 
 <!-- Tempel screenshot tampilan halaman di sini, atau link demo (misalnya GitHub Pages).-->
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshotpreview.png)
 
 Live Demo: [https://christianvalentinos.github.io/githandson/](#)
 
