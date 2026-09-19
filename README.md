@@ -31,13 +31,12 @@ Live Demo: [https://christianvalentinos.github.io/githandson/](#)
 
 ## Fitur Utama
 
-- [ ] Toggle Dark Mode
-- [ ] Like Counter interaktif
-- [ ] Responsive layout
-- [ ] _(tambahkan fitur lain sesuai pengembangan kelompok)_
+- [x] Toggle Dark Mode
+- [x] Like Counter interaktif
+- [x] Responsive layout
+- [x] _(tambahkan fitur lain sesuai pengembangan kelompok)_
 
 ---
-
 
 ## Contribution
 
