@@ -14,7 +14,7 @@ const members = [
   {
     name: "Leonel Shena Andreas",
     role: "UI/UX Designer",
-    image: "leon.jpg",
+    image: "33057.jpg",
     description: "Saya merancang pengalaman pengguna yang sederhana, menarik, dan mudah dipahami dengan memperhatikan kebutuhan pengguna di setiap halaman.",
     skills: ["Figma", "Wireframing", "Prototyping"]
   },
