@@ -41,11 +41,12 @@ Live Demo: [link-demo-jika-ada](#)
 
 ## Contribution
 
-| Jokowi Muda | Role | Kontribusi |
+| syududusyududu | Role | Kontribusi |
 |---|---|---|
-| [Nama Anggota 1] | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
-| [Nama Anggota 2] | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
-| [Nama Anggota 3] | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` |
+| Christian Valentino Setiawan | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
+| Leonel Shena Andreas | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
+| Jazson Riddick | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` |
+
 
 ---
 
