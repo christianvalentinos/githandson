@@ -12,7 +12,7 @@ const members = [
     skills: ["HTML", "CSS", "JavaScript"]
   },
   {
-    name: "Nama Anggota 2",
+    name: "Leonel Shena Andreas",
     role: "UI/UX Designer",
     image: "https://i.pravatar.cc/300?img=47",
     description: "Saya merancang pengalaman pengguna yang sederhana, menarik, dan mudah dipahami dengan memperhatikan kebutuhan pengguna di setiap halaman.",
