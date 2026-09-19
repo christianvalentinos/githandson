@@ -19,7 +19,7 @@ const members = [
     skills: ["Figma", "Wireframing", "Prototyping"]
   },
   {
-    name: "Nama Anggota 3",
+    name: "Jazson Riddick",
     role: "JavaScript Developer",
     image: "https://i.pravatar.cc/300?img=12",
     description: "Saya mengembangkan interaksi halaman yang dinamis dan memastikan setiap fitur berjalan lancar, cepat, serta nyaman digunakan.",
