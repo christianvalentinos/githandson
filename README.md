@@ -52,7 +52,7 @@ Live Demo: [https://christianvalentinos.github.io/githandson/](#)
 
 ## What I Learned
 
-| Nama Kelompok | Role | Kontribusi |
+| Nama Kelompok | What I Learned |
 |---|---|---|
 | Christian Valentino Setiawan | Membuat repository di github |
 | Leonel Shena Andreas | Kolaborasi coding |
