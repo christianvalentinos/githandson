@@ -34,7 +34,6 @@ Live Demo: [https://christianvalentinos.github.io/githandson/](#)
 - [x] Toggle Dark Mode
 - [x] Like Counter interaktif
 - [x] Responsive layout
-- [x] _(tambahkan fitur lain sesuai pengembangan kelompok)_
 
 ---
 
