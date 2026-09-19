@@ -7,7 +7,7 @@ const members = [
   {
     name: "Christian Valentino Setiawan",
     role: "Frontend Developer",
-    image: "https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg",
+    image: "pototian.jpg",
     description: "Syududu Syududu Anjay Mabar",
     skills: ["HTML", "CSS", "JavaScript"]
   },
