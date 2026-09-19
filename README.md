@@ -53,7 +53,7 @@ Live Demo: [https://christianvalentinos.github.io/githandson/](#)
 
 1. Clone repository ini:
    ```bash
-   git clone <url-repo-kalian>
+   git clone <https://github.com/christianvalentinos/githandson>
    ```
 2. Buka folder hasil clone, lalu klik dua kali file `index.html` (atau klik kanan → Open with → Browser).
 
