@@ -5,10 +5,10 @@
 
 const members = [
   {
-    name: "Nama Anggota 1",
+    name: "Christian Valentino Setiawan",
     role: "Frontend Developer",
     image: "https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg",
-    description: "Saya fokus membangun tampilan web yang rapi, responsif, dan mudah digunakan melalui struktur HTML dan desain antarmuka yang konsisten.",
+    description: "Syududu Syududu Anjay Mabar",
     skills: ["HTML", "CSS", "JavaScript"]
   },
   {
