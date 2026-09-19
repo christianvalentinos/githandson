@@ -16,7 +16,7 @@ Deskripsi singkat 1-2 kalimat tentang project ini (contoh: "DevCard adalah halam
 
 ![Screenshot](screenshot.png)
 
-Live Demo: [link-demo-jika-ada](#)
+Live Demo: [https://christianvalentinos.github.io/githandson/](#)
 
 ---
 
