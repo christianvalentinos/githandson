@@ -40,7 +40,7 @@ Live Demo: [https://christianvalentinos.github.io/githandson/](#)
 
 ## Contribution
 
-| syududusyududu | Role | Kontribusi |
+| Nama Kelompok | Role | Kontribusi |
 |---|---|---|
 | Christian Valentino Setiawan | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
 | Leonel Shena Andreas | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
